@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  my_array = ["wow", "I am", "learning"]
+  my_array = ["wow", "am", "learning"]
   my_array[1]
 end
 
